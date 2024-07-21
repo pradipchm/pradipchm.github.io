@@ -1,9 +1,35 @@
+# main:
+#   - title: "Bio"
+#     url: /posts/
+#   - title: "Research"
+#     url: /categories/
+#   - title: "Personal Interest"
+#     url: /tags/
+#   - title: "Resources"
+#     url: /about/
+
+
 main:
   - title: "Bio"
     url: /posts/
   - title: "Research"
     url: /categories/
+    sub:
+      - title: "Research Interests"
+        url: /categories/research-interests/
+      - title: "Publications"
+        url: /categories/publications/
   - title: "Personal Interest"
     url: /tags/
+    sub:
+      - title: "Hobbies"
+        url: /tags/hobbies/
+      - title: "Travel"
+        url: /tags/travel/
   - title: "Resources"
     url: /about/
+    sub:
+      - title: "Tools"
+        url: /about/tools/
+      - title: "Tutorials"
+        url: /about/tutorials/
