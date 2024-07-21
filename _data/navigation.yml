@@ -1,9 +1,9 @@
 main:
-  - title: "Blogs"
+  - title: "Bio"
     url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
-  # - title: "About"
-  #   url: /about/
+  - title: "Research"
+    url: /categories/
+  - title: "Personal Interest"
+    url: /tags/
+  - title: "Resources"
+    url: /about/
