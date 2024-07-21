@@ -14,21 +14,21 @@ main:
     url: /posts/
   - title: "Research"
     url: /pages/
-    sub:
+    children:
       - title: "Research Interests"
         url: /pages/research-interests/
       - title: "Publications"
         url: /pages/publications/
   - title: "Personal Interest"
     url: /pages/
-    sub:
+    children:
       - title: "Blogs"
         url: /pages/Blogs/
       - title: "Hobbies"
         url: /pages/hobbies/
   - title: "Resources"
     url: /pages/
-    sub:
+    children:
       - title: "Research"
         url: /pages/Research_sources/
       - title: "Other_sources"
