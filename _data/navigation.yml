@@ -13,23 +13,23 @@ main:
   - title: "Bio"
     url: /posts/
   - title: "Research"
-    url: /categories/
+    url: /pages/
     sub:
       - title: "Research Interests"
-        url: /categories/research-interests/
+        url: /pages/research-interests/
       - title: "Publications"
-        url: /categories/publications/
+        url: /pages/publications/
   - title: "Personal Interest"
-    url: /tags/
+    url: /pages/
     sub:
+      - title: "Blogs"
+        url: /pages/Blogs/
       - title: "Hobbies"
-        url: /tags/hobbies/
-      - title: "Travel"
-        url: /tags/travel/
+        url: /pages/hobbies/
   - title: "Resources"
-    url: /about/
+    url: /pages/
     sub:
-      - title: "Tools"
-        url: /about/tools/
-      - title: "Tutorials"
-        url: /about/tutorials/
+      - title: "Research"
+        url: /pages/Research_sources/
+      - title: "Other_sources"
+        url: /pages/Other_sources
