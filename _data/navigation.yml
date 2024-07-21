@@ -31,5 +31,5 @@ main:
     children:
       - title: "Research"
         url: /pages/Research_sources/
-      - title: "Other_sources"
-        url: /pages/Other_sources
+      - title: "Other Sources"
+        url: /pages/Other_sources/
